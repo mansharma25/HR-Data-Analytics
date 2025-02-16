@@ -36,7 +36,7 @@ It provides insights into **attrition trends, job satisfaction, and employee dem
    - Used **Donut, Column, and Line charts** to visualize insights  
 
 ## 📷 Dashboard Snapshots  
- 
+ ![ReportSnap](https://github.com/user-attachments/assets/21d0666d-05d3-47c6-9b16-2c0376488256)
 
 ## 🚀 Tools & Technologies
 - **Power BI Desktop**  
@@ -51,7 +51,6 @@ It provides insights into **attrition trends, job satisfaction, and employee dem
 🔹 **Looking for a Data Analyst role in Germany**  
 🔹 Open to networking, feedback, and collaborations!  
 
-📩 Feel free to connect with me on [LinkedIn](your-linkedin-profile)  
-📂 Check out my project repository: [GitHub](your-github-repo-link)  
+📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manoj-kumar/)
 
 🔗 **#DataAnalytics #PowerBI #HRAnalytics #DataScience #OpenToWork #JobSearch**  
